@@ -40,7 +40,7 @@
         "php": ">=8.1",
         "wpjscc/database": "^2",
         "wpjscc/orm": "2.x-dev",
-        "cycle/schema-builder": "^2.11.1",
+        "wpjscc/schema-builder": "2.x-dev",
         "spiral/attributes": "^2.8|^3.0",
         "spiral/tokenizer": "^2.8|^3.0",
         "doctrine/inflector": "^2.0"
