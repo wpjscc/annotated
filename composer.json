@@ -1,5 +1,5 @@
 {
-    "name": "cycle/annotated",
+    "name": "wpjscc/annotated",
     "type": "library",
     "license": "MIT",
     "description": "Cycle ORM Annotated Entities generator",
@@ -38,8 +38,8 @@
     ],
     "require": {
         "php": ">=8.1",
-        "cycle/database": "^2.15",
-        "cycle/orm": "^2.9.2",
+        "wpjscc/database": "^2",
+        "wpjscc/orm": "2.x-dev",
         "cycle/schema-builder": "^2.11.1",
         "spiral/attributes": "^2.8|^3.0",
         "spiral/tokenizer": "^2.8|^3.0",
